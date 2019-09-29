@@ -43,7 +43,7 @@ mvn clean install
 
 - 3、拷贝jar到Jmeter中
 
-复制 ```jmeter-function-plugins/target/jmeter-function-plugins-1.0-SNAPSHOT.jar```到```%JEMETER_HOME%/lib/ext```目录下
+复制 ```jmeter-function-plugins/target/jmeter-function-plugins-1.0-SNAPSHOT.jar```到```%JEMETER_HOME%/lib/ext```目录下，并重启Jmeter
 
 #### 使用说明
 
