@@ -51,7 +51,6 @@ mvn clean install
 | ---- | ---- | ---- |
 | __RandomChineseName | ```${__RandomChineseName}```| 生成随机中国姓名 |
 | __RandomMobile | ```${__RandomMobile}```| 生成随机手机号码 |
-| __RandomChineseName | ```${__RandomChineseName}```| 生成随机中国姓名 |
 | __RandomIdCardNo | ```${__RandomIdCardNo}```| 生成随机身份证件号 |
 | __RandomEmail | ```${__RandomEmail}```| 生成随机电子邮箱 |
 | __RandomIP | ```${__RandomIP}```| 生成随机IPv4地址 |
